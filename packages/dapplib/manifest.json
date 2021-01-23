@@ -1,0 +1,9 @@
+{
+    "name": "Solana Blog",
+    "blocks": {
+        "/blockchain/solana": true,
+        "/blockchain/solana/rust": true,
+        "/framework/vanilla": true,
+        "/category/examples/hello_dev": true
+    }
+}
